@@ -3,7 +3,7 @@ public class A {
     public A(){
         i = 5;
     }
-    public void metoda(){
+    public void funkcija(){
         System.out.println(i);
     }
 }
